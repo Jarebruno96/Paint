@@ -1,0 +1,92 @@
+﻿<Window x:Class="Paint.VentanaResumenFiguras"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Title="ResumenFiguras" Height="450" Width="600" Icon="Imagenes/IconoVentanaResumenFiguras.png" Background="LightBlue">
+    <Grid>
+        <!---Definicion del Grid-->
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!--Panel que contiene los botones de la ventana con el que el usuario puede añadir un elemento, eliminar, modificar y ver un elemento-->
+        <Grid Grid.Row="0">
+            <!---Definimos el numero de columnas que va a tener-->
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <!---Desde esta primera columna, el usuario podra añadir un nuevo elemento-->
+            <Grid Margin="8" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <!--TextBox que contiene un String que muestra una accion que puede realizar el usuario-->
+                <TextBlock VerticalAlignment="Top" Grid.Row="0">
+                    <Bold FontSize="15"><Underline>Seleccione tipo<LineBreak/>de Elemento a Añadir</Underline></Bold>
+                    </TextBlock>
+            
+                <!--ComboBox que permite al usuario seleccionar el tipo de elemento que desea añadir al dibujo-->
+                <ComboBox Name="selectorFiguras" Grid.Row="1" Height="25" Margin="9" ToolTip="Indique aquí el tipo de elemento que deseas añadir">
+                    <Label>Rectangulo</Label>
+                    <Label>Elipse</Label>
+                    <Label>Texto</Label>
+                    <Label>Recta</Label>
+                </ComboBox>
+                <!---Boton que permite añadir la figura deseada al dibujo-->
+                <StackPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="9" Width="60">
+                    <Button Name="bAñadir" Click="bAñadir_Click" ToolTip="Pulsa aquí una vez seleccionado un tipo de Elemento, para añadirlo al dibujo">Añadir</Button>
+                </StackPanel>
+            </Grid>
+            <!---Parte del panel superior desde el que podremos ver el elemento seleccionadom, modificarlo o eliminarlo-->
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <!---Subtitulo-->
+                <StackPanel Grid.Row="0" Orientation="Vertical">
+                    <TextBlock Margin="9" HorizontalAlignment="Center">
+                        <Bold>Miniatura del elemento:</Bold>
+                    </TextBlock>
+                    <!---ScrollViewer que contendra un label donde se representara la minuatura de la figura que selecciones en el ListView de la ventana-->
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" Height="100" Width="300">
+                        <Label Name="miniaturaElmento" Background="White" ToolTip="Miniatura del elemento seleccionado "></Label>
+                    </ScrollViewer>
+                        
+                </StackPanel>
+                <!---Añadimos los botones de propiedades y de eliminar-->
+                <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right" Orientation="Horizontal">
+                    <Button Name="bPropiedades" Margin="9" Click="bPropiedades_Click" ToolTip="Pulsa aquí para ver las propiedades del elemento seleccionado">Propiedades</Button>
+                    <Button Name="bEliminar" Margin="9" Click="bEliminar_Click" ToolTip="Pulsa aquí para eliminar el elemento seleccionado">Eliminar</Button>
+                </StackPanel>
+            </Grid>
+        </Grid>
+        <!---ListView que contrendra todos los elementos que añadamos al lienzo-->
+        <ListView Name="resumenFiguras" Grid.Row="1" SelectionMode="Single" SelectionChanged="resumenFiguras_SelectionChanged" ToolTip="Resumen de todas los elementos presente el dibujo">
+            <ListView.View>
+                <!---Defincion de cada una de las columnas del listView-->
+                <GridView>
+                    <GridViewColumn Header="ID" DisplayMemberBinding="{Binding ID}"/>
+                    <GridViewColumn Header="Tipo" DisplayMemberBinding="{Binding Tipo}"/>
+                    <GridViewColumn Header="P. Inicio" DisplayMemberBinding="{Binding PuntoInicio}"/>
+                    <GridViewColumn Header="P. Fin" DisplayMemberBinding="{Binding PuntoFin}"/>
+                    <GridViewColumn Header="Alto" DisplayMemberBinding="{Binding Alto}"/>
+                    <GridViewColumn Header="Ancho" DisplayMemberBinding="{Binding Ancho}"/>
+                    <GridViewColumn Header="Color Contorno" DisplayMemberBinding="{Binding ColorContorno}"/>
+                    <GridViewColumn Header="Color Fondo" DisplayMemberBinding="{Binding ColorFondo}"/>
+                    <GridViewColumn Header="Rotacion" DisplayMemberBinding="{Binding Rotacion}"/>
+                    <GridViewColumn Header="F. Letra" DisplayMemberBinding="{Binding TipoLetra}"/>
+                    <GridViewColumn Header="Contenido" DisplayMemberBinding="{Binding Contenido}"/>
+                    <GridViewColumn Header="G. Contorno" DisplayMemberBinding="{Binding GrosorContorno}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

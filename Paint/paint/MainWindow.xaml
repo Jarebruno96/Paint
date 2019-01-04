@@ -1,0 +1,92 @@
+﻿<Window x:Class="Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Name="v" Title="Paint" Height="600" Width="1100" Icon="Imagenes/IconoPrincipal.jpg" SizeChanged="Window_SizeChanged" Loaded="Window_Loaded" Closing="v_Closing">
+
+    <DockPanel Background="LightBlue">
+        <Ribbon Name="menuPrincipal" DockPanel.Dock="Top" >
+            <!--Añadimos las opciones principales de la aplicacion, Abrir, Borrar Todo, Guardar....-->
+
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu ToolTip="Opciones del archivo">
+                    <RibbonApplicationMenuItem Header="Abrir" ImageSource="Imagenes/IconoAbrirArchivo.jpg" ToolTip="Pulsa aquí si deseas abrir un dibujo ya creado" Click="abrirRibbonApplicationMenuItem_Click"/>
+                    <RibbonApplicationMenuItem Header="Exportar" ImageSource="Imagenes/IconoNuevoArchivo.jpg" ToolTip="Pulsa aquí si deseas exportar tu dibujo a foto" Click="exportarRibbonApplicationMenuItem_Click"/>
+                    <RibbonApplicationMenuItem Header="Borrar Todo" ImageSource="Imagenes/IconoBorrarTodo.png" ToolTip="Pulsa aquí si deseas borrar todos los elementos del dibujo" Click="borrarTodoRibbonApplicationMenuItem_Click"/>
+                    <RibbonApplicationMenuItem Header="Guardar" ImageSource="Imagenes/IconoGuardar.png" ToolTip="Pulsa aquí si deseas guardar el dibujo" Click="guardarRibbonApplicationMenuItem_Click"/>
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+
+            <!--Barra de Tareas principal-->
+
+            <RibbonTab Header="Opciones Rápidas">
+                <!---Grupo que muestra el elemento que seleccionemos del canvas, así como botones con los que podremos modficarlo o eliminarlo-->
+                <RibbonGroup>
+                    <ScrollViewer Height="75" Width="150" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                        <Label Name="elementoSeleccionado"></Label>
+                    </ScrollViewer>
+                    <RibbonButton Name="bModificarElemento"  Label="Modificar Elemento" SmallImageSource="Imagenes/IconoModificarElemento.png" ToolTip="Pulsa aquí si deseas modificar la figura seleccionada" Click="bModificarElemento_Click"/>
+                    <RibbonButton Name="bEliminarElemento" Label="Eliminar Elemento" SmallImageSource="Imagenes/IconoEliminarElemento.png" ToolTip="Pulsa aquí si deseas eliminar la figura seleccionada" Click="bEliminarElemento_Click"/>
+                </RibbonGroup>
+                <!---Grupo que contiene el boton que desplegará la ventana del resumen de elementos-->
+                <RibbonGroup>
+                    <RibbonButton Label="Ver Resumen Figuras" LargeImageSource="Imagenes/IconoVerResumenFiguras.jpg" Click="RibbonButton_Click" ToolTip="Pulsa aquí si deseas ver un resuemen de todas las figuras"/>
+                </RibbonGroup>
+                <!---Grupo que contiene los distintos tipos de elementos que puede añadir el usuario con el raton-->
+                <RibbonGroup Header="Elementos" ToolTip="Elementos que puede añadir al lienzo">
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoManoAlzada.jpg" Label="Mano Alzada" Name="opcionManoAlzada" Click="onOffSeleccion"></RibbonRadioButton>
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoRectangulo.png" Label="Rectangulo" Name="opcionRectangulo" Click="onOffSeleccion"></RibbonRadioButton>
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoElipse.jpg" Label="Elipse" Name="opcionElipse" Click="onOffSeleccion"></RibbonRadioButton>
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoTexto.png" Label="Texto" Name="opcionTexto" Click="onOffSeleccion"></RibbonRadioButton>
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoRecta.png" Label="Recta" Name="opcionRecta" Click="onOffSeleccion"></RibbonRadioButton>
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoDesplazar.png" Label="Mover" Name="opcionMover" Click="onOffSeleccion"></RibbonRadioButton>
+                    <RibbonRadioButton SmallImageSource="Imagenes/IconoCursor.jpg" Label="Cursor" Name="opcionCursor" IsChecked="True" Click="onOffSeleccion"></RibbonRadioButton>
+                </RibbonGroup>
+                <!--Grupo que contiene distintos grosores de contornos-->
+                <RibbonGroup Header="Grosor" ToolTip="Grosor con el que vas a dibujar con el raton">
+                    <RadioButton Name="fino" Click="fino_Click" IsChecked="True">Fino</RadioButton>
+                    <RadioButton Name="normal" Click="normal_Click">Normal</RadioButton>
+                    <RadioButton Name="ancho" Click="ancho_Click">Ancho</RadioButton>
+                </RibbonGroup>
+                <!---Grupo que contiene el color del contorno con el que estamos trabajando, asi como un boton para poder modifcarlo-->
+                <RibbonGroup VerticalAlignment="Center" HorizontalAlignment="Center" ToolTip="Color del contorno que vamos a usar por defecto">
+                    <RibbonButton Name="selectorColorContornoPorDefecto"  Label="Contorno Por Defecto" LargeImageSource="Imagenes/IconoVentanaColores.jpg" Click="selectorColorContornoPorDefecto_Click"></RibbonButton>
+                    <Rectangle Name="colorContornoPorDefecto" Stroke="Black" Fill="Black" Height="50" Width="75" Margin="3"></Rectangle>
+                </RibbonGroup>
+                <!---Grupo que contiene el color del fondo con el que estamos trabajando, asi como un boton para poder modifcarlo-->
+                <RibbonGroup VerticalAlignment="Center" HorizontalAlignment="Center" ToolTip="Color del fondo que vamos a usar por defecto">
+                    <RibbonButton Name="selectorColorFondoPorDefecto"  Label="Fondo Por Defecto" LargeImageSource="Imagenes/IconoVentanaColores.jpg" Click="selectorColorFondoPorDefecto_Click"></RibbonButton>
+                    <Rectangle Name="colorFondoPorDefecto" Stroke="Black" Fill="White" Height="50" Width="75" Margin="3"></Rectangle>
+                </RibbonGroup>
+            </RibbonTab>
+
+            <!--Barra de tareas de ayuda y gestion de dimensiones del canvas-->
+            <RibbonTab Header="Dimensiones Y Ayuda">
+                <!---Grupo que contiene el boton que nos permite modificar las dimensiones del canvas-->
+                <RibbonGroup>
+                    <RibbonButton Name="bCambiarCoordenadas" ToolTip="Pulse aquí si desea modificar las dimensiones del canvas"  LargeImageSource="Imagenes/IconoCoordenadas.gif" Label="Dimensiones del Lienzo" Click="bCambiarCoordenadas_Click"></RibbonButton>
+                </RibbonGroup>
+                <!--Grupo que contiene el boton con el que podremos desplegar el manual de usuario-->
+                <RibbonGroup Header="Ayuda">
+                    <RibbonButton Name="bMostrarManual" ToolTip="Pulse aquí para desplegar el manual de usuario"  LargeImageSource="Imagenes/IconoManual.png" Label="Manual de Usuario" Click="bMostrarManual_Click"></RibbonButton>
+                </RibbonGroup>
+            </RibbonTab>
+
+
+        </Ribbon>
+        <!---Añadimos las reglas que usamos como referencia para situar las figuras en el lugar adecuado-->
+        <Canvas Name="reglaBot" DockPanel.Dock="Top" Background="LightGray" Height="15" ClipToBounds="True" Margin="15 0 0 0"></Canvas>
+        <Canvas Name="reglaLef" DockPanel.Dock="Left" Background="LightGray" Width="15" ClipToBounds="True"></Canvas>
+        <!---Añadimos un ScrollViewer que contiene el canvas de trabajo-->
+        <ScrollViewer Name="sV"  VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" ScrollChanged="ScrollViewer_ScrollChanged">
+            <Canvas Name="lienzo" ClipToBounds="True" Background="White" MouseLeave="lienzo_MouseLeave" Width="900" Height="400" MouseMove="lienzo_MouseMove" MouseLeftButtonDown="lienzo_MouseLeftButtonDown" MouseLeftButtonUp="lienzo_MouseLeftButtonUp" VerticalAlignment="Top" HorizontalAlignment="Left"></Canvas>
+        </ScrollViewer>
+
+
+
+
+    </DockPanel>
+</Window>

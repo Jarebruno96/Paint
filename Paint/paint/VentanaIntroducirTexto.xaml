@@ -1,0 +1,26 @@
+﻿<Window x:Class="Paint.VentanaIntroducirTexto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Title="Tecxto del Elemento" Height="300" Width="500" Icon="Imagenes/IconoVentanaPropiedades.jpg">
+    <Grid>
+        <!---Definicion de las filas del Grid-->
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <!---Bloque de texto que contiene las instrucciones a seguir-->
+        <TextBlock Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center"> <Bold>Teclee el texto que quiere que tenga el elemento</Bold></TextBlock>
+        <!---Caja de texto donde introducimos el contenido-->
+        <TextBox Name="cajaDeTexto" Grid.Row="1" Height="20" Margin="25" ToolTip="Introduzca aquí el texto que desea que tenga el elemento"></TextBox>
+        <!---Botonera la de la ventana-->
+        <StackPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button Name="bAceptar" Content="Aceptar" Grid.Row="2" Height="20" Width="100" Click="bAceptar_Click" Margin="25"></Button>
+            <Button Name="bPropiedadesAvanzadas" Content="Configuracion Avanzada" Grid.Row="2" Height="20" Width="150" Click="bPropiedadesAvanzadas_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

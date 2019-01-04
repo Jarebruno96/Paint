@@ -1,0 +1,316 @@
+C:\Users\Juan Arellano\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Juan Arellano\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\i0959462\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\i0959462\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\i0959462\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\i0959462\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\pgina17\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\pgina17\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\pgina17\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\pgina17\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\pgina07\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\pgina07\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\pgina07\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\pgina07\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Juan Arellano\Dropbox\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint.exe
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint.pdb
+D:\Juan Arellano\Dropbox\Paint\Paint\bin\Debug\Paint.exe
+D:\Juan Arellano\Dropbox\Paint\Paint\bin\Debug\Paint.pdb
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\MainWindow.g.cs
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\App.g.cs
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\MainWindow.baml
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint.g.resources
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\bin\Debug\Paint.exe.config
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\App.g.cs
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\bin\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\bin\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\MainWindow.baml
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint.g.resources
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Juan Arellano\Desktop\Paint - copia\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\pgina27\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\pgina27\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\pgina27\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\pgina27\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Juan Arellano\Desktop\Paint Bueno\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\pgina37\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\pgina37\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\pgina37\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\pgina37\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\VetanaAsignarColor.g.cs
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\VetanaAsignarColor.baml
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Juan Arellano\Desktop\IntentoDibujarConRaton\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+D:\Juan Arellano\Dropbox\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+C:\Users\pgina47\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\pgina47\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\pgina47\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\pgina47\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Juan Arellano\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\MainWindow.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\App.g.cs
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\MainWindow.baml
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint.g.resources
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\Juan Arellano\Desktop\Paint Acabado\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.exe
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.pdb
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\bin\Debug\Paint.exe
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\bin\Debug\Paint.pdb
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\MainWindow.g.cs
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\App.g.cs
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\MainWindow.baml
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.g.resources
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Juan Arellano\Dropbox\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\bin\Debug\Paint.exe
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\bin\Debug\Paint.pdb
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\MainWindow.g.cs
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\App.g.cs
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\MainWindow.baml
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.g.resources
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.exe
+D:\Juan Arellano\Ingenieria Informática\Interfaces Graficas de Usuario\Windows\Paint Acabado\Paint\Paint\obj\Debug\Paint.pdb
+D:\Program Files (x86)\Git\Paint-WPF\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Program Files (x86)\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.exe
+D:\Program Files (x86)\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.pdb
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\bin\Debug\Paint.exe
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\bin\Debug\Paint.pdb
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\MainWindow.g.cs
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.g.cs
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaIntroducirTexto.g.cs
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaPropiedades.g.cs
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaResumenFiguras.g.cs
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\App.g.cs
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\MainWindow.baml
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaIntroducirDimensiones.baml
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaIntroducirTexto.baml
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaPropiedades.baml
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\VentanaResumenFiguras.baml
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.g.resources
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.exe
+D:\Ingeniería Informatica\Git\Paint-WPF\Paint\Paint\obj\Debug\Paint.pdb

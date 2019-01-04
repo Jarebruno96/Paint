@@ -1,0 +1,137 @@
+﻿<Window x:Class="Paint.VentanaPropiedades"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Title="Propiedades" Height="550" Width="400" Icon="Imagenes/IconoVentanaPropiedades.jpg">
+    <Grid Background="LightBlue">
+        <!---Definicion del Grid-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <!---Panel que contiene el titulo de la ventana y la miniatura de la imagen que vamos a modificar-->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="9" Height="Auto" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <!---Titulo-->
+            <TextBlock VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Bold FontSize="20"><Underline>Propiedades</Underline></Bold>
+            </TextBlock>
+            <!---Subtitulo-->
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Margin="9">
+                Miniatura
+            </TextBlock>
+            <!---ScrollViewer que contiene la miniatura elemento que estamos tratando-->           
+            <ScrollViewer  Height="100" Width="150" VerticalAlignment="Center" HorizontalAlignment="Center" Background="White" ToolTip="Previsualización del elemento" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <Label Name="miniaturaElemento" ToolTip="Aquí se muestra la miniatura del elemento con el que está tratando">
+                    
+                </Label>
+            </ScrollViewer>
+            
+        </StackPanel>
+        
+        <!---Atributos de los elementos que permiten identificarlos-->
+        <WrapPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <!---ID-->
+            <StackPanel Orientation="Horizontal" Margin="3">
+                <TextBlock Margin="3">ID</TextBlock>
+                <TextBlock Name="id" MinWidth="50" Margin="3" MaxWidth="70" Background="White" ToolTip="Identificador del elemento"></TextBlock>
+            </StackPanel>
+            <!---TIPO-->
+            <StackPanel Orientation="Horizontal" Margin="3">
+                <TextBlock Margin="3">Tipo</TextBlock>
+                <TextBlock Name="tipo" MinWidth="50" MaxWidth="70" Margin="3" Background="White" ToolTip="Tipo del elemento"></TextBlock>
+            </StackPanel>
+        </WrapPanel>
+        
+        <!---Atributos de los elementos relacionado con los colores del mismo-->
+        <WrapPanel Grid.Row="2" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <!--Para cambiar el color del contorno-->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Margin="5" MinWidth="70">Color Contorno</TextBlock>
+                <Label Margin="3" ToolTip="Color del contorno del elemento">
+                    <Rectangle Name="colorContorno" Height="15" Width="15" Fill="White"></Rectangle>
+                </Label>
+                <Button Name="bColorC" Margin="3" Click="bColorC_Click" ToolTip="Pulse aqui para cambiar el color del contorno del elemento">Dar Color</Button>
+                <TextBlock Margin="5" ToolTip="Indique si quiere que el color sea transparente">Tranparente</TextBlock>
+                <CheckBox Name="bCCTransparente"  Margin="5" Height="15" Click="bCCTransparente_Click"></CheckBox>
+            </StackPanel>
+            <!---Para cambiar el grosor del contorno-->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Margin="3" MinWidth="70">Grosor Contorno</TextBlock>
+                <TextBox Name="gContorno" Margin="3" Background="White" MinWidth="40" MaxWidth="75" ToolTip="Grosor del contorno del elemento"></TextBox>
+                
+            </StackPanel>
+            <!---Para cambiar el color del fondo-->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Margin="3" MinWidth="82">Color Fondo</TextBlock>
+                <Label Margin="3" ToolTip="Color del Fondo del elemento">
+                    <Rectangle Name="colorFondo" Height="15" Width="15" Fill="White"></Rectangle>
+                </Label>
+                <Button Name="bColorF" Margin="3" Click="bColorF_Click" ToolTip="Pulse aqui para cambiar el color del fondo del elemento">Dar Color</Button>
+                <TextBlock Margin="5" ToolTip="Indique si quiere que el color sea transparente">Tranparente</TextBlock>
+                <CheckBox Name="bCFTransparente"  Margin="5" Height="15" Click="bCFTransparente_Click"></CheckBox>
+            </StackPanel>
+        </WrapPanel>
+
+        <!---Atributos que hacen referencia a la dimensiones y ubicacion del elemento-->
+        <WrapPanel Grid.Row="3" Orientation="Vertical" Margin="3" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <!---Para el punto de Inicio-->
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="3" MinWidth="60">P. Origen</TextBlock>
+                <TextBox Name="pInicio" Margin="3" MinWidth="40" MaxWidth="75" ToolTip="Punto de inicio en el que comienza el elemento"></TextBox>
+            </StackPanel>
+            <!---Para el punto final-->
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="3" MinWidth="60">P. Fin</TextBlock>
+                <TextBox Name="pFin" Margin="3" MinWidth="40" MaxWidth="75" ToolTip="Punto final en que termina el elemento"></TextBox>
+            </StackPanel>
+            <!---Para el alto del elemento-->
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="3" MinWidth="60">Alto</TextBlock>
+                <TextBox Name="alto" Margin="3" MinWidth="40" MaxWidth="75" ToolTip="Tamaño en el eje Y del elemento"></TextBox>
+            </StackPanel>
+            <!---Para el ancho del elemento-->
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Margin="3" MinWidth="60">Ancho</TextBlock>
+                <TextBox Name="ancho" Margin="3" MinWidth="40" MaxWidth="75" ToolTip="Tamaño en el eje X del elemento"></TextBox>
+            </StackPanel>
+        </WrapPanel>
+        
+        <!--Atributo que hace referencia a la rotacion que le queremos dar al elemento-->
+        <WrapPanel Grid.Row="4" Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Margin="3">Angulo de rotacion</TextBlock>
+                <TextBox Name="rotacion" Margin="3" MinWidth="40" MaxWidth="75" ToolTip="Angulo de rotacion que se le proporcionará a dicho elemento"></TextBox>
+            </StackPanel>
+        </WrapPanel>
+
+        <!---Atributos de los elementos de Texto que se quiera añadir al dibujo-->
+        <WrapPanel Grid.Row="5" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Vertical">
+            <!---Para la fuente de letra-->
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Margin="3">Fuente De Letra</TextBlock>
+                <Button Name="selectorFuente" Margin="3" MinWidth="100" Click="selectorFuente_Click" ToolTip="Pulsar aquí si se desean cambiar las caracteristicas de la fuente del elemento">Fuente De Letra</Button>
+            </StackPanel>
+            <!---Para el texto que se quiera añadir-->
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Margin="3">Contenido</TextBlock>
+                <TextBox Name="contenido" Margin="3" MinWidth="120" MaxWidth="200"></TextBox>
+            </StackPanel>
+        </WrapPanel>
+
+        <!---Botones de la ventana para, o bien, guardar los cambios, o bien, cancelarlos-->
+        <StackPanel Grid.Row="6" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button Name="bAplicar" Margin="15" Click="bAplicar_Click" ToolTip="Pulse aqui para previsualizar como quedara el elemento">Aplicar</Button>
+            <Button Name="bGuardar" Margin="15" Click="bGuardar_Click" ToolTip="Pulse aquí para guardar las nuevas caracteristicas del elemento">Guardar Cambios</Button>
+            <Button Name="bCancelar" Margin="15" Click="bCancelar_Click" ToolTip="Pulse aquí si desea salir de las propiedades del elemento sin realizar ningún cambio">Cancelar</Button>
+        </StackPanel>
+    </Grid>
+</Window>
